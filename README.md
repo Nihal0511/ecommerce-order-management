@@ -28,5 +28,7 @@ Execute files in order:
 5. Triggers
 6. Indexes
 
+Tested on MySQL with sample data. All queries executed successfully.
+
 ## Author
 Nihal
